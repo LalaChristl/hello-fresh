@@ -10,8 +10,6 @@ Team: Alina Cuznetov, Lesley-Ann Christl & Harshita Joshi
 
 This is replica of a popular website built using React, Node & Tailwind. It includes a registration page, log in page, meal plans page, order processing page, cart function and checkout page.
 
-Live version:
-
 ---
 
 ![mealsREADME](https://user-images.githubusercontent.com/73485164/212684005-3ac5de58-a251-4935-9dcb-439a8b284aef.png)
